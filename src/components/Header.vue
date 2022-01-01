@@ -8,7 +8,7 @@
         <div class="header-nav">
             <div class="header-option">
                 <span class="header-optionLineOne">
-                    Hello Guest
+                    Hello 
                 </span>
                 <span class="header-optionLineTwo">
                     Sign In
